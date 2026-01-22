@@ -1,32 +1,32 @@
 # MATLAB_Dice_Game
 Dice Game developed using MATLAB
 # MATLAB GUI-Based Dice Game 🎲
+Dice Game (MATLAB GUI)
 
+🖥 Overview
 
-This project is a **GUI-based Dice Game** developed using **MATLAB**.  
-When the user rolls the dice, the game generates a **random number (1–6)** and displays the corresponding **dice face image** on the screen.
+A simple Dice Rolling Game using MATLAB GUI. Each roll displays the dice face corresponding to the number.
 
-This project demonstrates **random number generation, GUI interaction, and image handling** in MATLAB.
+🛠 Features
 
----
+- Simulates dice rolls (1-6)
 
-## 🔹 Features
+- Displays dice face using images
 
-- Interactive **Roll Dice** button
-- Random dice value generation (1 to 6)
-- Visual display of dice faces using images
-- User-friendly GUI interface
-- Modular and well-structured MATLAB code
+- Simple interactive GUI
 
----
+🧩 Implementation Details
 
-## 🔹 Tools & Technologies Used
+- MATLAB GUIDE-based GUI
 
-- MATLAB  
-- MATLAB GUI (App Designer / GUIDE)
-- MATLAB Image Handling Functions
-- Random number generation (`randi`)
+- Dice roll generated using randi
 
----
+- Dice faces displayed using imshow
 
+📈 Future Improvements
 
+- Add two-dice mode
+
+- Add score tracker
+
+- Add roll animation
